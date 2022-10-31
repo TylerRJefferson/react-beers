@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# My beer menu built with React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It's 5 o'clock somewhere! 🍻
 
 ## Available Scripts
 
